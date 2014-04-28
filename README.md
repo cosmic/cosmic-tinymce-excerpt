@@ -6,7 +6,7 @@ WordPress plugin to add a TinyMCE editor to excerpts
 Install
 -------
 
-To install or upgrade this WordPress plugin, in your WordPress folder, type:
+To install or upgrade this WordPress plugin, in your `wordpress` folder, type:
 
 ```sh
 $ curl https://raw.githubusercontent.com/cosmic/cosmic-tinymce-excerpt/master/cosmic-tinymce-excerpt.php > wp-content/plugins/cosmic-tinymce-excerpt.php
